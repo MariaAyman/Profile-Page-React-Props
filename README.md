@@ -1,3 +1,27 @@
+# Personalized Profile page - React Props
+
+A personalized profile page is created using react props, defaultProps and propTypes.
+
+## Steps used in creating this project
+
+```
+- The project is created using create-react-app.
+
+- A profile folder is created under src.
+
+- A profile component is created under /profile.
+
+- The profile component gets data (fullName, bio, profession) as props, and gets image as children props,
+  and the function handleName functions as a prop that sends an alert message with the name of the profile user.
+  
+- The default props for Profile component is defined. 
+
+- PropsType is used to check props.  
+
+- Inline style is also used.
+
+```
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
